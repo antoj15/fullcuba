@@ -1,7 +1,7 @@
 <h1 align="center">⚙️Pyro.DL 1.0⚙️</h1>
 
 ## Información
-Desarrollador: t.me/JeanPssss
+Desarrollador: http://t.me/JeanPssss
 
 Esta desarrollado con la librería para bots en Telegram, Pyrogram
 
