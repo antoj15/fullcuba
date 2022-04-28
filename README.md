@@ -1,5 +1,12 @@
 <h1 align="center">⚙️Pyro.DL 1.0⚙️</h1>
 
+## Información
+Desarrollador: t.me/JeanPssss
+
+Esta desarrollado con la librería para bots en Telegram, Pyrogram
+
+El código esta en su versión base así que puede presentar muchos errores a la hora de usarlo, si se le presenta algún error y sabe su solución, puede ayudar al repositorio arreglando dicho error 🤙🏻
+
 
 ## Variables
 Se establecen dentro del archivo cfg.py 
